@@ -1,0 +1,147 @@
+
+{
+  "accountSuggest": [
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/5137cb53ee85dc01fc0617fcb1c3fcc8_c5_100x100_fenqdp.jpg",
+      "nickName": "nhatwuyn.02",
+      "check": false,
+      "name": "Lê Thị Nhật Quyên",
+      "like": "6.2M",
+      "follow": "312.7K",
+      "id": 1
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377509/tiktok-avatar/image-avatar-tiktok/219e56290d96b5c4dae4c7750fb94a5b_c5_100x100_v4vual.jpg",
+      "nickName": "cciinnn",
+      "check": true,
+      "name": "Bùi Thảo Ly",
+      "like": "258M",
+      "follow": "10.2M",
+      "id": 2
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/05aa222706c452c8ad0ea7d2e719a745_c5_100x100_ruv5mo.jpg",
+      "nickName": "hoaa.hanassii",
+      "check": true,
+      "name": "Đào Lê Phương Hoa",
+      "like": "347.7M",
+      "follow": "13.9M",
+      "id": 3
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678441099/tiktok-avatar/image-avatar-tiktok/f3588a80f435e7cee86198077381b192_c5_100x100_tmu1ut.jpg",
+      "nickName": "_shy.02_",
+      "check": false,
+      "name": "Shy🐰",
+      "like": "11.3M",
+      "follow": "417.3K",
+      "id": 4
+    }
+  ],
+  "accountFollow": [
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/9656d7c2e771739bba41ac69795b9be5_ierxp8.jpg",
+      "nickName": "_kimuriel27",
+      "check": "true",
+      "name": "N g o c K i m",
+      "id": 1
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377509/tiktok-avatar/image-avatar-tiktok/2500fcb26d932b94075f5b142747f3f2_c5_100x100_wnrjj4.jpg",
+      "nickName": "nganchennxinh",
+      "check": "true",
+      "name": "Ngân Chen🧸",
+      "id": 2
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/2ea4d271862a78fe62cf402b58f34426_c5_100x100_qlc9sv.jpg",
+      "nickName": "maibanhtrang",
+      "check": "true",
+      "name": "Lê Thu Mai boutique",
+      "id": 3
+    }
+  ],
+  "video": [
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/285993815_1955595391306192_3725328400118609186_n_l9epci.jpg",
+      "nickName": "smbhuyyy__",
+      "fullName": "B a H u y 1 5 6",
+      "namePreview": "Sa Mai Bá Huy",
+      "tick": true,
+      "title": "✨ @bahuy156 ✨",
+      "nameMusic": "Nhạc nền - LONELY x OUT OUT remix",
+      "videoURL": "https://files.fullstack.edu.vn/f8-tiktok/videos/590-6365c6eb9dec1.mp4",
+      "like": "14.2M",
+      "likePreview": "60M",
+      "followPreview": "15M",
+      "comment": "8.4K",
+      "share": "2345",
+      "id": 1
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/1665757201241090_psxiqd.jpg",
+      "nickName": "duyyy.real.channel",
+      "fullName": "Ngô Đức Duy",
+      "namePreview": "Ngô Đức Duy",
+      "tick": true,
+      "title": "Review và xàm xí 🐧🐧🐧",
+      "nameMusic": "original sound - Ngô Đức Duy",
+      "videoURL": "https://files.fullstack.edu.vn/f8-tiktok/videos/1592-63e085925545c.mp4",
+      "like": "222.5K",
+      "likePreview": "236.7M",
+      "followPreview": "6.1M",
+      "comment": "3220",
+      "share": "1506",
+      "id": 2
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377509/tiktok-avatar/image-avatar-tiktok/219e56290d96b5c4dae4c7750fb94a5b_c5_100x100_v4vual.jpg",
+      "nickName": "cciinnn",
+      "fullName": "CiiN",
+      "namePreview": "Bùi Thảo Ly (Sịn)",
+      "tick": true,
+      "title": "Bùi Thảo Ly (Sịn) - IG: l.ciin",
+      "nameMusic": "Nhạc nền - Mong Một Ngày Anh Nhớ Đến Em",
+      "videoURL": "https://files.fullstack.edu.vn/f8-tiktok/videos/1416-63dc6f807a1a2.mp4",
+      "like": "2.5M",
+      "likePreview": "258M",
+      "followPreview": "10.2M",
+      "comment": "47.2K",
+      "share": "5506",
+      "id": 3
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/05aa222706c452c8ad0ea7d2e719a745_c5_100x100_ruv5mo.jpg",
+      "nickName": "hoaa.hanassii",
+      "fullName": "Đào Lê Phương Hoa",
+      "namePreview": "Đào Lê Phương Hoa",
+      "tick": true,
+      "title": "✨ 1998 ✨",
+      "nameMusic": "Nhạc nền - 𝑩 𝑰 𝑲 𝑬 𝒀 𝑹 𝑬 𝑴 𝑰 𝑿",
+      "videoURL": "https://files.fullstack.edu.vn/f8-tiktok/videos/578-6363efe388ebc.mp4",
+      "like": "4.2M",
+      "likePreview": "347.7M",
+      "followPreview": "13.9M",
+      "comment": "28.4K",
+      "share": "1080",
+      "id": 4
+    },
+    {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678441099/tiktok-avatar/image-avatar-tiktok/f3588a80f435e7cee86198077381b192_c5_100x100_tmu1ut.jpg",
+      "nickName": "_shy.02_",
+      "fullName": "Nguyễn Thị Ngàn",
+      "namePreview": "Shy🐰",
+      "tick": false,
+      "title": "🐰FB: Nguyễn Thị Ngàn 🐰",
+      "nameMusic": "Nhạc nền - Shy🐰",
+      "videoURL": "https://res.cloudinary.com/duw5qlrdt/video/upload/v1678441271/tiktok-avatar/video-tiktok/Video/video_3_wozvn3.mp4",
+      "like": "20.2K",
+      "likePreview": "11.3M",
+      "followPreview": "417.3K",
+      "comment": "1220",
+      "share": "108",
+      "id": 5
+    }
+  ]
+}
+
