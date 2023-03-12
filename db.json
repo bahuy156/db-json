@@ -79,6 +79,22 @@
       "id": 1
     },
     {
+      "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/9656d7c2e771739bba41ac69795b9be5_ierxp8.jpg",
+      "nickName": "_kimuriel27",
+      "fullName": "N g o c K i m",
+      "namePreview": "Nguyễn Thị Kim Ngọc",
+      "tick": true,
+      "title": "@kunsgd2711 🐇",
+      "nameMusic": "original sound - Mint",
+      "videoURL": "https://res.cloudinary.com/duw5qlrdt/video/upload/v1678614802/tiktok-avatar/video-tiktok/Video/040dbd1ad4704aa29c4a4563cc63902b_ihyict.mp4",
+      "like": "27M",
+      "likePreview": "270M",
+      "followPreview": "27.1M",
+      "comment": "11K",
+      "share": "2000",
+      "id": 2
+    },
+    {
       "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/1665757201241090_psxiqd.jpg",
       "nickName": "duyyy.real.channel",
       "fullName": "Ngô Đức Duy",
@@ -92,7 +108,7 @@
       "followPreview": "6.1M",
       "comment": "3220",
       "share": "1506",
-      "id": 2
+      "id": 3
     },
     {
       "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377509/tiktok-avatar/image-avatar-tiktok/219e56290d96b5c4dae4c7750fb94a5b_c5_100x100_v4vual.jpg",
@@ -108,7 +124,7 @@
       "followPreview": "10.2M",
       "comment": "47.2K",
       "share": "5506",
-      "id": 3
+      "id": 4
     },
     {
       "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678377510/tiktok-avatar/image-avatar-tiktok/05aa222706c452c8ad0ea7d2e719a745_c5_100x100_ruv5mo.jpg",
@@ -124,7 +140,7 @@
       "followPreview": "13.9M",
       "comment": "28.4K",
       "share": "1080",
-      "id": 4
+      "id": 5
     },
     {
       "avatar": "https://res.cloudinary.com/duw5qlrdt/image/upload/v1678441099/tiktok-avatar/image-avatar-tiktok/f3588a80f435e7cee86198077381b192_c5_100x100_tmu1ut.jpg",
@@ -140,7 +156,7 @@
       "followPreview": "417.3K",
       "comment": "1220",
       "share": "108",
-      "id": 5
+      "id": 6
     }
   ]
 }
